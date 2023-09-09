@@ -1,3 +1,3 @@
 export * from "./PlacesProvider";
-export * from "./placesContext";
+export * from "./PlacesContext";
 export * from "./placesReducer";

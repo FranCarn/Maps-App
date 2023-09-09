@@ -1,5 +1,5 @@
 import { useEffect, useReducer } from "react";
-import { PlacesContext } from "./placesContext";
+import { PlacesContext } from "./PlacesContext";
 import { placesReducer } from "./placesReducer";
 import { getUserLocation } from "../../helpers";
 
