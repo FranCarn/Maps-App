@@ -6,7 +6,9 @@ import "./styles.css";
 export const MapsApp = () => {
   return (
     <PlacesProvider>
-      <Home />
+      <MapProvider>
+        <Home />
+      </MapProvider>
     </PlacesProvider>
   );
 };

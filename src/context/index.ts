@@ -1,2 +1,2 @@
-export * from "./map/mapContext";
+export * from "./map/MapContext";
 export * from "./places";
