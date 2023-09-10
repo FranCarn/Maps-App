@@ -1,4 +1,4 @@
-import { PlacesProvider } from "./context";
+import { MapProvider, PlacesProvider } from "./context";
 import { Home } from "./screens";
 
 import "./styles.css";
